@@ -16,7 +16,7 @@ There is the guide how to update **IPMI** `Firmware` and **BIOS** on **SuperMicr
 
 - According to the official documentation the recommended updating sequince looks like the next table:
 
-   | Related `IPMI Firmware` version | Update to `IPMI` version |
+   | Related `IPMI Firmware` version | Update to `IPMI Firmware` version |
    | :----------------: | :--------------------: |
    | `1.85` | `3.27` |
    | `3.27` | `3.58` |
