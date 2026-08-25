@@ -8,7 +8,7 @@
 ![Firmware](https://img.shields.io/badge/Firmware-v2.0+-blue?style=flat)
 ![IPMI](https://img.shields.io/badge/IPMI-Compatible-success?style=flat)
 
-There is the guide how to update **IPMI** `Firmware` and **BIOS** on **SuperMicro** motherboard model `x10-DRL-I`
+There is the guide how to update **IPMI** `Firmware` and **BIOS** `software` on **SuperMicro** motherboard model `x10-DRL-I`
 
 ---
 
