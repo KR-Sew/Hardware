@@ -8,5 +8,18 @@
 ![Firmware](https://img.shields.io/badge/Firmware-v2.0+-blue?style=flat)
 ![IPMI](https://img.shields.io/badge/IPMI-Compatible-success?style=flat)
 
+There is the guide how to update **IPMI** `Firmware` and **BIOS** on **SuperMicro** motherboard model `x10-DRL-I`
 
-There is the guide how to update **IPMI** `Firmware` and **BIOS** on **SuperMicro** motherboard model `x10-DRL_I`
+---
+According to the official documentation the recommended updating sequince looks like the next table:
+
+| Related `IPMI Firmware` version | Update to `IPMI` version |
+| :----------------: | :--------------------: |
+| `1.85` | `3.27` |
+| `3.27` | `3.58` |
+| `3.58` | `3.72` |
+| `3.72` | `3.73` |
+| `3.73` | `3.80` |
+| `3.80` | `3.85` |
+| `3.85` | `3.88` |
+| `3.88` | `3.91` |
