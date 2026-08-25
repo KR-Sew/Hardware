@@ -26,3 +26,19 @@ There is the guide how to update **IPMI** `Firmware` and **BIOS** on **SuperMicr
    | `3.80` | `3.85` |
    | `3.85` | `3.88` |
    | `3.88` | `3.91` |
+
+### BIOS update plan
+
+- In addition `BIOS` updating talbe looks like:
+
+   | Related `BIOS` version | Updated to `BIOS` version |
+   | :--------------------: | :-------------------: |
+   | `1.18` | `2.0` |
+   | `2.0` | `2A` |
+   | `2A` | `2b` |
+   | `2b` | `3A` |
+   | `3a` | `3.1` |
+   | `3.1` | `3.1c` |
+   | `3.1c1` | `3.2` |
+   | `3.2` | `3.3` |
+   | `3.3` | `3.4` |
