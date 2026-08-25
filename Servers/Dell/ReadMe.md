@@ -1,0 +1,5 @@
+![Dell Update Guide](https://img.shields.io/badge/Dell-Server%20Update-0066CC?style=flat&logo=dell&logoColor=white)
+![BIOS Update](https://img.shields.io/badge/BIOS-Firmware%20Update-orange?style=flat&logo=dell)
+![iDRAC](https://img.shields.io/badge/iDRAC-9%2F10-blue?style=flat&logo=dell)
+![Lifecycle](https://img.shields.io/badge/Lifecycle-Controller-success?style=flat)
+![PowerEdge](https://img.shields.io/badge/PowerEdge-Compatible-brightgreen?style=flat)
