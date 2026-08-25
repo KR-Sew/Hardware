@@ -11,15 +11,18 @@
 There is the guide how to update **IPMI** `Firmware` and **BIOS** on **SuperMicro** motherboard model `x10-DRL-I`
 
 ---
-According to the official documentation the recommended updating sequince looks like the next table:
 
-| Related `IPMI Firmware` version | Update to `IPMI` version |
-| :----------------: | :--------------------: |
-| `1.85` | `3.27` |
-| `3.27` | `3.58` |
-| `3.58` | `3.72` |
-| `3.72` | `3.73` |
-| `3.73` | `3.80` |
-| `3.80` | `3.85` |
-| `3.85` | `3.88` |
-| `3.88` | `3.91` |
+### IPMI Firmware update plan
+
+- According to the official documentation the recommended updating sequince looks like the next table:
+
+   | Related `IPMI Firmware` version | Update to `IPMI` version |
+   | :----------------: | :--------------------: |
+   | `1.85` | `3.27` |
+   | `3.27` | `3.58` |
+   | `3.58` | `3.72` |
+   | `3.72` | `3.73` |
+   | `3.73` | `3.80` |
+   | `3.80` | `3.85` |
+   | `3.85` | `3.88` |
+   | `3.88` | `3.91` |
